@@ -1,2 +1,2 @@
 # Z.-B.-Patil-College
-iOS App
+iOS App(Only for iPhone8)
